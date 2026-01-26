@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://github.com/VoltAgent/voltagent">
-<img width="1500" height="500" alt="Group 64" src="https://github.com/user-attachments/assets/c1b0ceac-fa86-44f0-ba45-92187ed9582e" />
+<img width="1500" height="500" alt="social" src="https://github.com/user-attachments/assets/fac18063-135d-4235-a015-a251f29d90f3" />
 </a>
 
 <br/>
@@ -15,7 +15,13 @@
 </div>
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+<a href="https://github.com/VoltAgent/voltagent">
+  <img alt="VoltAgent" src="https://cdn.voltagent.dev/website/logo/logo-2-svg.svg" height="20" />
+</a> 
 ![Skills Count](https://img.shields.io/badge/skills-565+-blue?style=flat-square)
+![Last Update](https://img.shields.io/github/last-commit/VoltAgent/awesome-clawdbot-skills?label=Last%20update&style=flat-square)
+[![Discord](https://img.shields.io/discord/1361559153780195478.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://s.voltagent.dev/discord)
+[![GitHub forks](https://img.shields.io/github/forks/VoltAgent/awesome-clawdbot-skills?style=social)](https://github.com/VoltAgent/awesome-claude-skills/network/members)
 </div>
 
 # Awesome Clawdbot Skills
@@ -52,7 +58,7 @@ Priority: Workspace > Local > Bundled
 - [Coding Agents & IDEs](#coding-agents--ides) (16)
 - [Git & GitHub](#git--github) (9)
 - [DevOps & Cloud](#devops--cloud) (35)
-- [Browser & Automation](#browser--automation) (7)
+- [Browser & Automation](#browser--automation) (8)
 - [Image & Video Generation](#image--video-generation) (9)
 - [Apple Apps & Services](#apple-apps--services) (11)
 - [Search & Research](#search--research) (12)
@@ -174,6 +180,7 @@ Priority: Workspace > Local > Bundled
 
 - [Agent Browser](https://github.com/clawdbot/skills/tree/main/skills/thesethrose/agent-browser/SKILL.md) - A fast Rust-based headless browser automation CLI with Node.js fallback that enables AI agents to.
 - [browsh](https://github.com/clawdbot/skills/tree/main/skills/gumadeiras/browsh/SKILL.md) - A modern text-based browser. Renders web pages in the terminal using headless Firefox.
+- [browser-use](https://github.com/clawdbot/skills/tree/main/skills/shawnpana/browser-use/SKILL.md) - Cloud-based browser automation with managed sessions and autonomous task execution.
 - [context7](https://github.com/clawdbot/skills/tree/main/skills/am-will/context7-api/SKILL.md) - |.
 - [guru-mcp](https://github.com/clawdbot/skills/tree/main/skills/pvoo/guru-mcp/SKILL.md) - Access Guru knowledge base via MCP - ask AI questions, search documents, create drafts.
 - [mcporter](https://github.com/clawdbot/skills/tree/main/skills/steipete/mcporter/SKILL.md) - Use the mcporter CLI to list, configure, auth, and call MCP servers/tools directly (HTTP.
